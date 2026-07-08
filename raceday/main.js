@@ -2,7 +2,7 @@ let raceNumber = Math.floor(Math.random() * 1000);
 //console.log(raceNumber)
 
 let isEarly = false;
-let runnerAge = 18;
+let runnerAge = 28;
 
 if(runnerAge > 18) {
   raceNumber += 1000;
